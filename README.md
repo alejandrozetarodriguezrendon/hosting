@@ -12,3 +12,5 @@ Deben completar la encuesta que está en el aula. Decidiremos el tema, definirem
 cada página se crea con un archivo html. Si usan Visual Studio Code, recuerden que la extensión Emmet autocompleta la estructura.
 
 Si usan un editor de texto o hacen el código directamente en Github, les dejo la estructura básica en el archivo Estructura https://github.com/CeciTU-ICT/hosting/blob/main/Estructura
+
+Se selecciona el tema LUGARES CURIOSOS Y EXTRAÑOS.
