@@ -14,3 +14,6 @@ cada página se crea con un archivo html. Si usan Visual Studio Code, recuerden 
 Si usan un editor de texto o hacen el código directamente en Github, les dejo la estructura básica en el archivo Estructura https://github.com/CeciTU-ICT/hosting/blob/main/Estructura
 
 Se selecciona el tema LUGARES CURIOSOS Y EXTRAÑOS.
+
+Se formaron 3 grupos de trabajo. Cada grupo debía elegir un lugar sobre el cual hacer su página y crear la maqueta (WIREFRAME). El archivo de imagen del wireframe se sube a la carpeta WIREFRAME de este repositorio. Solo un integrante debe hacerlo.
+
