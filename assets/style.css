@@ -96,3 +96,10 @@ header {
     color: #050101;
     text-decoration: none;
   }
+ .Icons {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px; /* Espacio entre los íconos */
+    width: 30px; /* Tamaño de los íconos */
+    height: 30px;
+}
